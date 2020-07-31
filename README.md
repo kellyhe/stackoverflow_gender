@@ -2,9 +2,9 @@
 
 This explortary analysis uses the data from Stack Overflow Developer Survery, 2017 to answer those four questions below:
 
-1. Do salary of female developers overtake earning of male developers?
-2. Can female developers get hired with a lower degree?
-3. Do female developers enjoy their job as a developer?
+1. Do salary of female programmers overtake earning of male programmers?
+2. Can female programmers get hired with a lower degree?
+3. Do female programmers enjoy their job as a programmer?
 4. Do female programmers enjoy coding as a hobby?
 
 ## Results
