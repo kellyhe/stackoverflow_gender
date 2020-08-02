@@ -9,7 +9,7 @@ This explortary analysis uses the data from Stack Overflow Developer Survery, 20
 
 ## Results
 
-The main analysis can be found at the medium post.
+The main analysis can be found here at the medium post.
 
 ## Data Source
 
