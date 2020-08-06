@@ -21,7 +21,7 @@ Q4. Do female programmers enjoy coding as a hobby?
 
 ## File Description <a name="files"></a>
 
-The notebook "Explortary Analysis about female programmers" contains analysis related to those above questions.  
+The notebook "Explortary Analysis about female programmers" contains analysis related to those above questions. Two raw data files "survey_results_public.csv" and "survey_results_schema.csv" are saved in the "data" folder.  
 
 ## Results <a name="results"></a>
 
